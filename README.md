@@ -1,6 +1,6 @@
-# DataViz_Assignments
-Assignment 1 - 21st April
-Individual Project: Data Product Redesign - Submission 1
+<br>**DataViz_Assignments**
+<br>Assignment 1 - 21st April
+<br>Individual Project: Data Product Redesign - Submission 1
 
 The author through this article is trying to communicate how amongst all other developed countries, America stands out in terms of gun violence. He uses 17 charts to build this context and tries to establish a connection between increased gun violence and ease of firearms access to people
 
