@@ -54,7 +54,7 @@ Once, I establish that liberal gun ownership laws is correlated to higher gun vi
 
 **Possible DataSources that I may use:**
 
-https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp
-https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2015&start=1996
-http://www.shootingtracker.com/Main_Page
+<br> https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp
+<br> https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2015&start=1996
+<br> http://www.shootingtracker.com/Main_Page
 
