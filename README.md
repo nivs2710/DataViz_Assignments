@@ -4,12 +4,12 @@ Individual Project: Data Product Redesign - Submission 1
 
 The author through this article is trying to communicate how amongst all other developed countries, America stands out in terms of gun violence. He uses 17 charts to build this context and tries to establish a connection between increased gun violence and ease of firearms access to people
 
-**The problem statement: 
+**The problem statement:**
 
 •	To set a context by showing that gun violence is way higher in America as compared to all the other developed countries
 •	To assess the impact of liberal gun laws or people’s easy access to firearms to increased gun violence
 
-**Ineffectiveness of the data product:
+**Ineffectiveness of the data product:**
 
 The data product talks about several types of gun violence: homicides, suicides, mass shootings (relating to death or just wounded), and every graph talks about one of these aspects separately. A comprehensive picture of total gun violence in the US vs other countries has not been shown.
 The graphs are not arranged in a logical order that really tells the complete story.
@@ -22,7 +22,7 @@ Also, the graph just shows the rates, but not base line numbers for comparison.
 -	Graph 17 – It is not clear from the graph as to what Rep/Lean Rep or Dem/ Lean Dem stands for, hence it is difficult to understand if a wider gap is favorable or not
 The relevance of graph 14 and 15 i.e. higher police officer death and support for gun ownership to the main problem statement is not very clear. The graphs or the article does not really connect the dots.
 
-**Data product redesign:
+**Data product redesign:**
 
 I would consider homicides, suicides and mass shootings as three separate categories and try to identify the impact of liberal gun laws/ ownership in each.
 
@@ -47,12 +47,12 @@ C.	Once this correlation is established, we may try to understand trends in vari
 
 Once, I establish that liberal gun ownership laws is correlated to higher gun violence, I will also see if I can establish a causality relation between the two. If I am successful in doing that, then I would move on to consider the viable solutions to curb ease of firearm access. One of the proposed solutions could be bringing about a change in the gun ownership law. I would then further assess the reasons why it has been so difficult to change the same, like people’s support, political reasons, etc. through various graphs.
 
-**Potential starting points for a deceptive version:
+**Potential starting points for a deceptive version:**
 
 1.	Graph 9: By changing the measurement metric from per 100,000 people to per 100 people, we can potentially induce a visual deception that the rate of firearm homicide deaths has not decreased substantially.
 2.	Graph 11 & 14: It is potentially deceptive, since we do not know the composition of states within the each of the categories i.e. highest and lowest rates of gun ownership 
 
-**Possible DataSources that I may use:
+**Possible DataSources that I may use:**
 
 https://wisqars.cdc.gov:8443/nvdrs/nvdrsDisplay.jsp
 https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2015&start=1996
